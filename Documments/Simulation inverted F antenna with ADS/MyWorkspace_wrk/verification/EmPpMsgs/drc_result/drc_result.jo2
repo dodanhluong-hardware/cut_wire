@@ -1,0 +1,31 @@
+(resolution 10000)
+(line 255
+  (data 125391 209489 125391 209490)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_1" 126 125391 209489))
+(polygon 255
+  (data 125387 209485 125395 209485 125395 209493 125387 209493)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_1" 126 125391 209489))
+(line 255
+  (data 179492 209489 179493 209490)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_2" 126 179492 209489))
+(polygon 255
+  (data 179488 209485 179496 209485 179496 209493 179488 209493)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_2" 126 179492 209489))
+(line 255
+  (data 154555 208161 154551 208157)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_3" 126 154555 208161))
+(polygon 255
+  (data 154551 208157 154559 208157 154559 208165 154551 208165)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_3" 126 154555 208161))
+(line 255
+  (data 191770 223371 191770 223370)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_4" 126 191770 223371))
+(polygon 255
+  (data 191766 223367 191774 223367 191774 223375 191766 223375)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_4" 126 191770 223371))
+(line 255
+  (data 196765 217651 196765 217650)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_5" 126 196765 217651))
+(polygon 255
+  (data 196761 217647 196769 217647 196769 217655 196761 217655)
+  (label "drc_result/000000/ Layout healing: snapped a vertex/edge to a nearby vertex/edge on STRIP layer <mask 1>_5" 126 196765 217651))
